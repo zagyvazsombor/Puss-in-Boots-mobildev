@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Puss in Boots</string>
+    <string name="login_button_label">Bejelentkezés</string>
+    <string name="add_button_label">Hozzáad</string>
+    <string name="username_hint_label">Felhasználónév</string>
+    <string name="password_hint_label">Jelszó</string>
+    <string name="dummy_credentials_empty">Kérlek add meg a bejelentkezési adataid</string>
+    <string name="dummy_credentials_wrong">Hibás felhasználónév/jelszó</string>
+    <string name="login_successful">Sikeres bejelentkezés</string>
+    <string name="admin_username">admin</string>
+    <string name="admin_password">1234</string>
+    <string name="server">Server</string>
+    <string name="shoe_icon">Cipő kép</string>
+    <string name="shoe_size">Méret</string>
+    <string name="shoe_color">Szín</string>
+    <string name="shoe_quantity">Mennyiség</string>
+    <string name="shoe_name">Név</string>
+</resources>
